@@ -39,7 +39,7 @@ namespace Zadanie5
             while (sum +k <= N)
             {
                 sum += k;
-                k++;
+                k++; 
             }
             Result.Content = $"Наиб значение K = {k-1}\nСумма = {sum}";
         }

@@ -55,7 +55,7 @@ namespace Zadanie3
                     
                     Result4.Content = $"S = {S}";
                     break;
-
+                     
             }
         }
     }

@@ -30,7 +30,7 @@
             <Label x:Name="Result4" />
 
 
-        </StackPanel>
+        </StackPanel> 
     </Grid>
 </Window>
 

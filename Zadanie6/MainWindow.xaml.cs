@@ -39,7 +39,7 @@ namespace Zadanie6
                 int Number = N % 10;
                 if (Number % 2 != 0)
                 {
-                    didnt = true;
+                    didnt = true; 
                     break;
                 }
                 N /= 10;

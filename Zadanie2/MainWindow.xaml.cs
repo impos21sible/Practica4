@@ -49,7 +49,7 @@ namespace Zadanie2
                 case 10:
                     Result.Content = $"десятка";
                     break;
-                case 11:
+                case 11: 
                     Result.Content = $"валет";
                     break;
                 case 12:

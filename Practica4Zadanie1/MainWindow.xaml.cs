@@ -37,7 +37,7 @@ namespace Practica4Zadanie1
                 MessageBox.Show("B не равно нулю");
                 return; 
             }
-
+             
             switch (NN)
             {
                 case 1:
