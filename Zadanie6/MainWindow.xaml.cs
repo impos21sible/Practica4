@@ -33,69 +33,19 @@ namespace Zadanie6
                 Result.Content = "Ошибка ввода";
             }
 
-            if (N<9)
+            bool didnt = false;
+            while (N != 0)
             {
-
-                if (N % 2 == 0)
+                int Number = N % 10;
+                if (Number % 2 != 0)
                 {
-                    Result.Content = "false  ";
+                    didnt = true;
+                    break;
                 }
-                else
-                {
-                    Result.Content = "true  ";
-                    
-                }
-                return;
-                
+                N /= 10;
             }
-            
-
-            if (N>9 && N<100)
-            {
-                int a = N % 10;
-                int b = (N % 10) / 1;
-
-                if ( a%2 == 0)
-                {
-                    Result.Content = "false";
-                }
-                else Result.Content = "true ";
-
-                if (b % 2 == 0)
-                {
-                    Result2.Content = "false ";
-                }
-                else Result2.Content = "true ";
-
-                return;
-            }
-            else
-            {
-                int a = N % 10;
-                int b = N / 10;
-                int c = (N % 10) / 1;
-
-                if (a % 2 == 0)
-                {
-                    Result.Content = "false ";
-                }
-                else Result.Content = "truе ";
-
-                if (b % 2 == 0)
-                {
-                    Result2.Content = "false ";
-                }
-                else Result2.Content = "true ";
-
-                if (c%2 == 0)
-                {
-                    Result3.Content = "false ";
-                }
-                else Result3.Content = "true ";
-
-                return;
-
-            }
+            Result.Content = didnt.ToString();
         }
     }
+
 }

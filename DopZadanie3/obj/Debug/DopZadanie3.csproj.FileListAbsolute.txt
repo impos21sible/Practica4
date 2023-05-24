@@ -1,0 +1,14 @@
+C:\Users\Programmer\source\repos\Practica4Zadanie1\DopZadanie3\bin\Debug\DopZadanie3.exe.config
+C:\Users\Programmer\source\repos\Practica4Zadanie1\DopZadanie3\bin\Debug\DopZadanie3.exe
+C:\Users\Programmer\source\repos\Practica4Zadanie1\DopZadanie3\bin\Debug\DopZadanie3.pdb
+C:\Users\Programmer\source\repos\Practica4Zadanie1\DopZadanie3\obj\Debug\MainWindow.g.cs
+C:\Users\Programmer\source\repos\Practica4Zadanie1\DopZadanie3\obj\Debug\App.g.cs
+C:\Users\Programmer\source\repos\Practica4Zadanie1\DopZadanie3\obj\Debug\DopZadanie3_MarkupCompile.cache
+C:\Users\Programmer\source\repos\Practica4Zadanie1\DopZadanie3\obj\Debug\DopZadanie3_MarkupCompile.lref
+C:\Users\Programmer\source\repos\Practica4Zadanie1\DopZadanie3\obj\Debug\MainWindow.baml
+C:\Users\Programmer\source\repos\Practica4Zadanie1\DopZadanie3\obj\Debug\DopZadanie3.g.resources
+C:\Users\Programmer\source\repos\Practica4Zadanie1\DopZadanie3\obj\Debug\DopZadanie3.Properties.Resources.resources
+C:\Users\Programmer\source\repos\Practica4Zadanie1\DopZadanie3\obj\Debug\DopZadanie3.csproj.GenerateResource.cache
+C:\Users\Programmer\source\repos\Practica4Zadanie1\DopZadanie3\obj\Debug\DopZadanie3.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\Practica4Zadanie1\DopZadanie3\obj\Debug\DopZadanie3.exe
+C:\Users\Programmer\source\repos\Practica4Zadanie1\DopZadanie3\obj\Debug\DopZadanie3.pdb
